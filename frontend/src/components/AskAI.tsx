@@ -1,5 +1,5 @@
 import { useSquid } from '@squidcloud/react';
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './AskAI.css';
 import LoadingIndicator from './LoadingIndicator';
 const AskAI = () => {
